@@ -2,7 +2,7 @@ package banco;
 
 
 public class Conta {
-    private double saldo;
+    protected double saldo;
 
     public Conta(double saldoInicial) {
 

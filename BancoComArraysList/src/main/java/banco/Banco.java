@@ -1,8 +1,10 @@
+// Banco.java
 package banco;
-import java.util.ArrayList;
-public class Banco {
 
-    private ArrayList <Cliente> clientes;
+import java.util.ArrayList;
+
+public class Banco {
+    private ArrayList<Cliente> clientes;
 
     public Banco() {
         this.clientes = new ArrayList<>();
@@ -10,7 +12,6 @@ public class Banco {
 
     public void adicionarCliente(Cliente cliente) {
         this.clientes.add(cliente);
-
     }
 
     public Cliente getCliente(int indice) {
@@ -20,5 +21,4 @@ public class Banco {
     public int getNumeroDeClientes() {
         return clientes.size();
     }
-
 }
