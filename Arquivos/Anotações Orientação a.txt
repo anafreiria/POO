@@ -2,3 +2,7 @@ Anotações Orientação a Objetos
 Quando eu reescrevo um method em uma subclasse, ao chama-lo em um ponteiro, vou chamar o que foi reescrito.
 Uma interface é uma classe que todos seus métdos são abstratos.
 Italico em uml significa abstrato
+
+http://license-server.bcc.unifal-mg.edu.br:8181
+license server
+activate
