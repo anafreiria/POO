@@ -1,0 +1,55 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="27.1.1">
+  <diagram name="Página-1" id="BYU2SsC9w-P9fRMbGcrB">
+    <mxGraphModel dx="1426" dy="732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ILzOB9Ha2t1WXqzDg0_r-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ILzOB9Ha2t1WXqzDg0_r-1" target="ILzOB9Ha2t1WXqzDg0_r-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ILzOB9Ha2t1WXqzDg0_r-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="ILzOB9Ha2t1WXqzDg0_r-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ILzOB9Ha2t1WXqzDg0_r-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ILzOB9Ha2t1WXqzDg0_r-1" target="ILzOB9Ha2t1WXqzDg0_r-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ILzOB9Ha2t1WXqzDg0_r-1" value="Hostel&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Name = &quot;Sparkling Water&quot;&lt;/div&gt;&lt;div&gt;Endereço da pagina inicial&lt;/div&gt;&lt;div&gt;Descrição&lt;/div&gt;&lt;div&gt;Data de inauguração&lt;/div&gt;&lt;div&gt;Contato&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="300" width="210" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ILzOB9Ha2t1WXqzDg0_r-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ILzOB9Ha2t1WXqzDg0_r-3" target="ILzOB9Ha2t1WXqzDg0_r-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ILzOB9Ha2t1WXqzDg0_r-3" value="Hospede&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Primeiro Nome&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Sobrenome&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Email&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Data de nascimento&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Title(Mr, Mrs, Miss, Ms,..,Dr)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="22" y="40" width="160" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="ILzOB9Ha2t1WXqzDg0_r-4" value="Quarto&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Numero&lt;/div&gt;&lt;div&gt;Nome&lt;/div&gt;&lt;div&gt;Tipo&lt;/div&gt;&lt;div&gt;Descrição&lt;/div&gt;&lt;div&gt;Dimensão&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="380" width="160" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="ILzOB9Ha2t1WXqzDg0_r-7" value="Endereço&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;Cidade&lt;/div&gt;&lt;div&gt;Estado&lt;/div&gt;&lt;/div&gt;&lt;div&gt;Cep&lt;/div&gt;&lt;div&gt;Pais&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="279" y="39" width="160" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="ILzOB9Ha2t1WXqzDg0_r-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.058;entryY=1.067;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ILzOB9Ha2t1WXqzDg0_r-1" target="ILzOB9Ha2t1WXqzDg0_r-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="290" y="188" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ILzOB9Ha2t1WXqzDg0_r-13" value="Autenticação&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Usuário&lt;/div&gt;&lt;div&gt;Senha&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="280" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ILzOB9Ha2t1WXqzDg0_r-16" value="Empregados&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Recepcionista&lt;/div&gt;&lt;div&gt;Administrador&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="70" width="210" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ILzOB9Ha2t1WXqzDg0_r-18" value="tem" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="360" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ILzOB9Ha2t1WXqzDg0_r-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.65;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ILzOB9Ha2t1WXqzDg0_r-16" target="ILzOB9Ha2t1WXqzDg0_r-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
